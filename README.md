@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+#Krisinformation
+
+Just a small project I made for playing around with hosting a Next.js app with Vercel. Nothing fancy...
